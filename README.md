@@ -1,1 +1,3 @@
 # PuzzlebotSimulator
+roslaunch puzzlebot_gazebo puzzlebot_gazebo.launch
+roslaunch gazebo_ros empty_world.launch
